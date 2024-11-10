@@ -1,6 +1,6 @@
 # Recommender-Systems-Case-Study
 Welcome to the Personalized Stock Investment Advisor! This machine learning-powered recommendation system provides users with personalized stock recommendations based on historical performance, market trends, and user preferences.
-# 📝 Project Overview:
+# 📝 Overview:
 The Personalized Stock Investment Advisor is a recommendation system that assists users in making informed stock market decisions. Using a combination of collaborative and content-based filtering, the advisor recommends stocks for users to buy, hold, or sell based on their unique profiles and market data. This project leverages machine learning and data analytics to optimize investment decisions for individual users.
 # 🔍 Features
 Collaborative Filtering: Recommends stocks based on preferences and behaviors of similar users.
